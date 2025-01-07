@@ -6,5 +6,5 @@ original repo: https://github.com/DreamtaleCore/RaindropRmv<br/>
 ![R](https://github.com/sjg918/rainrender/blob/main/R_000000.png?raw=true)
 
 # use
-python setup.py build develop
+python setup.py build develop<br/>
 check test_gpu.py
