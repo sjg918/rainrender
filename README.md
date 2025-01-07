@@ -7,3 +7,4 @@ original repo: https://github.com/DreamtaleCore/RaindropRmv<br/>
 
 # use
 python setup.py build develop
+check test_gpu.py
