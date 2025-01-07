@@ -1,4 +1,4 @@
-# rain render on gpu (pytorch extension)
+# raindrop render on gpu (pytorch extension)
 original repo: https://github.com/DreamtaleCore/RaindropRmv<br/>
 
 # results on kitti
